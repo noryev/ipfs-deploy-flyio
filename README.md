@@ -3,7 +3,7 @@
 ## 1. Clone this repo and enter the folder
 
 ```sh
-git clone git@github.com:2color/ipfs-deploy-flyio.git
+git clone git@github.com:noryev/ipfs-deploy-flyio.git
 
 cd ipfs-deploy-flyio
 ```
